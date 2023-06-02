@@ -3,6 +3,9 @@ Desarrollando misión 2
 
 ## Programas de tv favoritos
 
+The big bang theory - EE.UU
+Pataclaun - Peru
+Los picapiedras - EE.UU
 
 The big bang theory
 Pataclaun
