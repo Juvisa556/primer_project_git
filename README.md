@@ -9,7 +9,9 @@ Pataclaun
 Los picapiedras
 Supersonicos
 Tom y Jerry
+## Agregar pais de origen
 The big bang theory - EE.UU
 Pataclaun - Peru
 Los picapiedras - EE.UU
-
+Super Sonicos - EE.UU
+Tom y Jerry - Checoslovaquia
